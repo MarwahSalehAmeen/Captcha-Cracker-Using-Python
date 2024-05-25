@@ -6,6 +6,6 @@ the script should:
 4. Submit the username, password, and captcha value to the login page. 
 5. Repeat the above until a successful log in.
 
-You will need to install some requirements to run the Login App: 
-• pip install flask Pillow 
-• apt-get install ttf-mscorefonts-installer 
+You will need to install some requirements to run the Login App:
+pip install flask Pillow
+apt-get install ttf-mscorefonts-installer 
